@@ -574,9 +574,7 @@
         },
         "contentManagedIdentity": {
           "type": "string",
-          "readOnly": true,
-          "description": "Specifies the managed identity that will be used to download the policy packages",
-          "x-nullable": true
+          "description": "Specifies the managed identity that will be used to download the policy packages"
         },
         "configurationParameter": {
           "type": "array",
