@@ -180,5 +180,5 @@ scenarios:
     - operationId: GuestConfigurationAssignments_List
       exampleFile: ../../2024-04-05/examples/listGuestConfigurationAssignments.json
     - operationId: GuestConfigurationAssignmentsVMSS_List
-      exampleFile: ../../2024-04-05/examples/listGuestConfigurationAssignments.json
+      exampleFile: ../../2024-04-05/examples/listVMSSGuestConfigurationAssignments.json
       
